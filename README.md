@@ -2,17 +2,17 @@
 
 To run the app first run the server on the terminal using
 
-### node server.js
+### 'node server.js'
 
 Open another teminal to start the React App 
 
 Enter the React folder using
 
-### cd react-interview-assessment
+### 'cd react-interview-assessment'
 
 and then enter the React application on web using, 
 
-### npm start
+### 'npm start'
 
 The React application should open 
 
